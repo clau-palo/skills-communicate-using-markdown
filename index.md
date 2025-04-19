@@ -2,4 +2,6 @@
 
 ## Header level 2
 
-### Header level 3
+### Image added
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
